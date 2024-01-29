@@ -1,15 +1,38 @@
 {
   "files": {
-    "main.css": "/newmusicplayer/static/css/main.b5c5edd6.css",
-    "main.js": "/newmusicplayer/static/js/main.188a605a.js",
+    "main.css": "/newmusicplayer/static/css/main.50bcecb9.css",
+    "main.js": "/newmusicplayer/static/js/main.597633e8.js",
     "static/js/787.558022f7.chunk.js": "/newmusicplayer/static/js/787.558022f7.chunk.js",
+    "static/media/bbest5.1.mp3": "/newmusicplayer/static/media/bbest5.1.ae1f04f84d99eac339bd.mp3",
+    "static/media/1-newstuff.mp3": "/newmusicplayer/static/media/1-newstuff.599c956e58f474f62612.mp3",
+    "static/media/jackssong.mp3": "/newmusicplayer/static/media/jackssong.7cd061d328b1b0eec484.mp3",
+    "static/media/doyouinthebutt2.mp3": "/newmusicplayer/static/media/doyouinthebutt2.acf43a4f6d4e43c2e9b6.mp3",
+    "static/media/Project 44.mp3": "/newmusicplayer/static/media/Project 44.dd4d914f573fd80ca662.mp3",
+    "static/media/newbuklshit3.mp3": "/newmusicplayer/static/media/newbuklshit3.88a0f9595dbcb0088c54.mp3",
+    "static/media/Fridaymorning.mp3": "/newmusicplayer/static/media/Fridaymorning.684954dbd3b86d1ce80e.mp3",
+    "static/media/COOL52REMIX.mp3": "/newmusicplayer/static/media/COOL52REMIX.8436cddef03c960c9d83.mp3",
+    "static/media/onemore.mp3": "/newmusicplayer/static/media/onemore.d277b99f758609880060.mp3",
+    "static/media/sick8.mp3": "/newmusicplayer/static/media/sick8.a7214a55d86194b252bb.mp3",
+    "static/media/greatestelectronicv.mp3": "/newmusicplayer/static/media/greatestelectronicv.94ab7801dcb4fb15d21e.mp3",
+    "static/media/youcouldhavegottajob4.mp3": "/newmusicplayer/static/media/youcouldhavegottajob4.4bc7fef84958ab739426.mp3",
+    "static/media/allme1.mp3": "/newmusicplayer/static/media/allme1.6bcea27706bd266a95f6.mp3",
+    "static/media/bassmadness.mp3": "/newmusicplayer/static/media/bassmadness.a6d1d2938b779002d71f.mp3",
+    "static/media/unnamed.mp3": "/newmusicplayer/static/media/unnamed.9b85894a95b9b5b7b5e9.mp3",
+    "static/media/indiavocals.mp3": "/newmusicplayer/static/media/indiavocals.0384c480b2318c71da6e.mp3",
+    "static/media/x2ciool.mp3": "/newmusicplayer/static/media/x2ciool.23650fec25a398b6b6a3.mp3",
+    "static/media/newelectronic3.mp3": "/newmusicplayer/static/media/newelectronic3.7151fb9bd77905c77086.mp3",
+    "static/media/intenseone.mp3": "/newmusicplayer/static/media/intenseone.a154dcdf522437394b7c.mp3",
+    "static/media/funkloop1.mp3": "/newmusicplayer/static/media/funkloop1.d2c85b2188a7367ce739.mp3",
+    "static/media/xxx.mp3": "/newmusicplayer/static/media/xxx.618657d270e3cb71a1aa.mp3",
+    "static/media/sick2.jpg": "/newmusicplayer/static/media/sick2.da101a301beb79ff4cb9.jpg",
+    "static/media/sick1logo.jpg": "/newmusicplayer/static/media/sick1logo.97d5fce73a1ea6a6da7f.jpg",
     "index.html": "/newmusicplayer/index.html",
-    "main.b5c5edd6.css.map": "/newmusicplayer/static/css/main.b5c5edd6.css.map",
-    "main.188a605a.js.map": "/newmusicplayer/static/js/main.188a605a.js.map",
+    "main.50bcecb9.css.map": "/newmusicplayer/static/css/main.50bcecb9.css.map",
+    "main.597633e8.js.map": "/newmusicplayer/static/js/main.597633e8.js.map",
     "787.558022f7.chunk.js.map": "/newmusicplayer/static/js/787.558022f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5c5edd6.css",
-    "static/js/main.188a605a.js"
+    "static/css/main.50bcecb9.css",
+    "static/js/main.597633e8.js"
   ]
 }
