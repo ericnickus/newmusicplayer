@@ -141,16 +141,6 @@ function chillHop() {
       active: false,
     },
     {
-      name: "do you in the * * * * ",
-      cover: require("./images/sick2.jpg"),
-      artist: "Eric Nickus",
-      audio: require("./music/doyouinthebutt2.mp3"),
-      color: ["#205950", "#2ab3bf"],
-      id: uuidv4(),
-      active: true,
-    },
-   
-    {
       name: "funkloop1",
       cover: require("./images/sick2.jpg"),
       artist: "Eric Nickus",
@@ -180,7 +170,7 @@ function chillHop() {
     },
    
     {
-      name: "new bs",
+      name: "more 6 o' clock news",
       cover: require("./images/sick2.jpg"),
       artist: "Eric Nickus",
       audio: require ("./music/newbuklshit3.mp3"),
