@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/newmusicplayer/static/css/main.50bcecb9.css",
-    "main.js": "/newmusicplayer/static/js/main.06614c41.js",
+    "main.js": "/newmusicplayer/static/js/main.fab59657.js",
     "static/js/787.558022f7.chunk.js": "/newmusicplayer/static/js/787.558022f7.chunk.js",
     "static/media/bbest5.1.mp3": "/newmusicplayer/static/media/bbest5.1.ae1f04f84d99eac339bd.mp3",
     "static/media/1-newstuff.mp3": "/newmusicplayer/static/media/1-newstuff.599c956e58f474f62612.mp3",
@@ -27,11 +27,11 @@
     "static/media/sick1logo.jpg": "/newmusicplayer/static/media/sick1logo.97d5fce73a1ea6a6da7f.jpg",
     "index.html": "/newmusicplayer/index.html",
     "main.50bcecb9.css.map": "/newmusicplayer/static/css/main.50bcecb9.css.map",
-    "main.06614c41.js.map": "/newmusicplayer/static/js/main.06614c41.js.map",
+    "main.fab59657.js.map": "/newmusicplayer/static/js/main.fab59657.js.map",
     "787.558022f7.chunk.js.map": "/newmusicplayer/static/js/787.558022f7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50bcecb9.css",
-    "static/js/main.06614c41.js"
+    "static/js/main.fab59657.js"
   ]
 }
